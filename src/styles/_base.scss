@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+  background: $color-black;
+}
+
+.bg-black {
+  background: $color-black;
+}
+
+.bg-grey {
+  background: $color-grey;
+}
+
+.bg-orange {
+  background: $color-orange;
+}
+
+.text-hover:hover {
+  color: $color-orange !important;
+}
+
+
+.border-orange-hover:hover{
+  border: 2px solid $color-orange;
+}
+.zoom-out-hover:hover{
+  transform: scale(1.05);
+}
+
+.no-link {
+  &:hover,
+  &:link,
+  &:visited {
+    text-decoration: none;
+  }
+}

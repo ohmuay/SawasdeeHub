@@ -1,0 +1,36 @@
+.my-pagination {
+  &__item {
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    background: $color-grey;
+    border-radius: 5px;
+    &:not(:last-child) {
+      margin-right: 2rem;
+    }
+    &:hover {
+      background: lighten($color-grey, 10);
+    }
+    
+    &--active {
+      background: $color-orange;
+      color: $color-white;
+      &:hover {
+        background: lighten($color-orange, 10);
+      }
+      
+    }
+  }
+  &__link {
+    &:link,
+    &:visited {
+      padding: 0.3rem 1rem;
+      font-size: 2rem;
+      color: $color-white;
+    }
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
