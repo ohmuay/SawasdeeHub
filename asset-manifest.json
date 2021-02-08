@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SawasdeeHub/static/css/main.0edb2a5f.chunk.css",
-    "main.js": "/SawasdeeHub/static/js/main.a26e3bcf.chunk.js",
-    "main.js.map": "/SawasdeeHub/static/js/main.a26e3bcf.chunk.js.map",
+    "main.css": "/SawasdeeHub/static/css/main.f01b3770.chunk.css",
+    "main.js": "/SawasdeeHub/static/js/main.cf2a478b.chunk.js",
+    "main.js.map": "/SawasdeeHub/static/js/main.cf2a478b.chunk.js.map",
     "runtime-main.js": "/SawasdeeHub/static/js/runtime-main.f6ad276a.js",
     "runtime-main.js.map": "/SawasdeeHub/static/js/runtime-main.f6ad276a.js.map",
     "static/js/2.d55adf29.chunk.js": "/SawasdeeHub/static/js/2.d55adf29.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c0236bc7.chunk.js": "/SawasdeeHub/static/js/3.c0236bc7.chunk.js",
     "static/js/3.c0236bc7.chunk.js.map": "/SawasdeeHub/static/js/3.c0236bc7.chunk.js.map",
     "index.html": "/SawasdeeHub/index.html",
-    "static/css/main.0edb2a5f.chunk.css.map": "/SawasdeeHub/static/css/main.0edb2a5f.chunk.css.map",
+    "static/css/main.f01b3770.chunk.css.map": "/SawasdeeHub/static/css/main.f01b3770.chunk.css.map",
     "static/js/2.d55adf29.chunk.js.LICENSE.txt": "/SawasdeeHub/static/js/2.d55adf29.chunk.js.LICENSE.txt",
     "static/media/user.1e0b9435.jpg": "/SawasdeeHub/static/media/user.1e0b9435.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f6ad276a.js",
     "static/js/2.d55adf29.chunk.js",
-    "static/css/main.0edb2a5f.chunk.css",
-    "static/js/main.a26e3bcf.chunk.js"
+    "static/css/main.f01b3770.chunk.css",
+    "static/js/main.cf2a478b.chunk.js"
   ]
 }
