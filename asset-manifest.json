@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SawasdeeHub/static/css/main.0edb2a5f.chunk.css",
-    "main.js": "/SawasdeeHub/static/js/main.de380784.chunk.js",
-    "main.js.map": "/SawasdeeHub/static/js/main.de380784.chunk.js.map",
+    "main.js": "/SawasdeeHub/static/js/main.77bcdb7d.chunk.js",
+    "main.js.map": "/SawasdeeHub/static/js/main.77bcdb7d.chunk.js.map",
     "runtime-main.js": "/SawasdeeHub/static/js/runtime-main.f6ad276a.js",
     "runtime-main.js.map": "/SawasdeeHub/static/js/runtime-main.f6ad276a.js.map",
     "static/js/2.6f12e415.chunk.js": "/SawasdeeHub/static/js/2.6f12e415.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f6ad276a.js",
     "static/js/2.6f12e415.chunk.js",
     "static/css/main.0edb2a5f.chunk.css",
-    "static/js/main.de380784.chunk.js"
+    "static/js/main.77bcdb7d.chunk.js"
   ]
 }
