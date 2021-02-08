@@ -1,5 +1,5 @@
 import React, { useEffect, useReducer, useState } from "react";
-import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
+import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import contentReducer from "./reducer/contentReducer";
 import contentContext from "./context/contentContext";
@@ -29,7 +29,7 @@ const App = () => {
 
   return (
     <contentContext.Provider value={{ state, dispatch, search, setSearch }}>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop>
           <Switch>
             <Route path="/" exact>
@@ -42,9 +42,10 @@ const App = () => {
               <Pagination />
               <Footer />
             </Route>
+
           </Switch>
         </ScrollToTop>
-      </BrowserRouter>
+      </HashRouter>
     </contentContext.Provider>
   );
 };

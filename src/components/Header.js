@@ -9,7 +9,7 @@ const Header = () => {
     dispatch({ type: "SEARCH", id: search });
   }, [search, dispatch]);
   return (
-    <nav className="navbar bg-grey navbar-dark mb-5">
+    <nav className="navbar bg-grey navbar-dark">
       <div className="container">
         <Link to="/pages/1" className="navbar-brand" onClick={()=>{ setSearch('')}}>
           <h1 className="logo">

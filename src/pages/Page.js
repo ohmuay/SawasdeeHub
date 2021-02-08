@@ -32,6 +32,7 @@ const Page = () => {
   return (
     <section className="home-section">
       <div className="container">
+      <h2 className="heading-secondary my-4">this page contains <span>{content.length}</span> items</h2>
         <div className="row">
           {content.map((item) => (
             <Card key={item.id} item={item} />
